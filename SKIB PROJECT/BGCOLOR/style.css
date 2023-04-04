@@ -1,0 +1,17 @@
+.main{align-items:middle;
+    margin-left: 40%;
+    background-color: rgb(249, 232, 232);
+    width: 200px;
+    border-radius: 15px;
+    padding: 20px;
+    
+    
+    
+}
+input{
+    margin-left: 30% ;
+}
+body{
+    background-color: rgb(3, 7, 7);
+    
+}
